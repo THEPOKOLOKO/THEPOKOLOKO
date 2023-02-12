@@ -1,6 +1,6 @@
 # Bem-vindo a minha pagina sobre MODS do Dayz!
 
-![Legenda da imagem](caminho/para/imagem.jpg)
+![Legenda da imagem]([caminho/para/imagem.jpg](https://cdn.discordapp.com/attachments/1008571074981658694/1074172457692438689/POKOLOKO_illustration_of_a_party_of_2_main_characters_fighting__49ba9aa5-80e5-4524-9dae-077cbd41ef89.png))
 
 [![Legenda do vídeo](caminho/para/thumbnail.jpg)](link para o vídeo)
 
