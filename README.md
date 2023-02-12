@@ -1,4 +1,4 @@
-# Bem-vindo aos MODS do Dayz!
+# Bem-vindo a minha pagina sobre MODS do Dayz!
 
 ![Legenda da imagem](caminho/para/imagem.jpg)
 
@@ -18,11 +18,6 @@ Aqui estão alguns dos melhores mods que você encontrará neste repositório:
 
 ## Como instalar os MODS
 
-Aqui estão os passos para instalar os mods neste repositório:
-
-1. Baixe o mod desejado clicando no botão "Download" na página do mod.
-2. Extraia o arquivo baixado em sua pasta de mods do Dayz.
-3. Inicie o jogo e ative o mod na tela de configurações.
 
 ## Recursos adicionais
 
