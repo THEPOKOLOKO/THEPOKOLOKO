@@ -1,6 +1,6 @@
 # Bem-vindo a minha pagina sobre MODS do Dayz!
 
-![Legenda da imagem]([caminho/para/imagem.jpg](https://cdn.discordapp.com/attachments/1008571074981658694/1074172457692438689/POKOLOKO_illustration_of_a_party_of_2_main_characters_fighting__49ba9aa5-80e5-4524-9dae-077cbd41ef89.png))
+![Legenda da imagem]
 
 [![Legenda do vídeo](caminho/para/thumbnail.jpg)](link para o vídeo)
 
@@ -10,11 +10,6 @@ Este é o seu repositório de MODS para o jogo Dayz. Aqui você encontrará uma 
 
 ## Destaques dos MODS
 
-Aqui estão alguns dos melhores mods que você encontrará neste repositório:
-
-- Mod X: Adiciona novas armas e veículos ao jogo.
-- Mod Y: Melhora a inteligência artificial dos inimigos.
-- Mod Z: Adiciona novos locais para explorar.
 
 ## Como instalar os MODS
 
