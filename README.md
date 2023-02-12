@@ -1,10 +1,6 @@
 # Bem-vindo a minha pagina sobre MODS do Dayz!
 
-![Legenda da imagem]
-
-[![Legenda do vídeo](caminho/para/thumbnail.jpg)](link para o vídeo)
-
-![Legenda do GIF](caminho/para/gif.gif)
+# EM CONTRUÇÃO
 
 Este é o seu repositório de MODS para o jogo Dayz. Aqui você encontrará uma coleção de mods interessantes e úteis para melhorar sua experiência de jogo.
 
